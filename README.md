@@ -4,7 +4,7 @@
 
 
 >>>>>>> Stashed changes
-Hey... are you a golang nerd? 
-if yes welcome comrade. we have work to do hhaha you know what i mean cahnging the world with go 
+Hey.. are you a golang nerd? 
+if yes welcome. we have work to do hahaha you know what i mean changing the world with go 
 
-ejoy the Crud code 
+enjoy the Crud code 
